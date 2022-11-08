@@ -2,7 +2,7 @@
 
 To check the power efficiency in windows:
 
-1. open the cmd as <b>an adminstrator<b>
+1. open the cmd as <b>an adminstrator</b>
 2. run the following command in the cmd:
 	```
 	powercfg -energy
