@@ -8,11 +8,11 @@ To check the power efficiency in windows:
 	powercfg -energy
 	```
 	
-![Stage](stage0.png)
+![Stage](stage0.PNG)
 	
 3. wait until the energy-report.html file is created
 	
-![Stage](stage1.png)
+![Stage](stage1.PNG)
 
 4. run the following command to see the result:
 	```
