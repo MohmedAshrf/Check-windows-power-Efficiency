@@ -12,4 +12,4 @@ To check the power efficiency in windows:
 	```
 	type energy-report.html | Findstr efficiency
 	```
-[![Result][screenshot]](./Result.png)
+![Result](Result.png)
